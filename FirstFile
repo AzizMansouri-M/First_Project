@@ -1,0 +1,14 @@
+1) Créez un compte sur le site GitHub via le lien suivant : GitHub
+
+B. Création du repository distant :
+2) Créez un repository « First_Project » en le configurant public.
+3) A quoi ça sert le répertoire « .gitignore ».
+4) Créez un fichiersousle repository distant « FirstFile », remplissez-le et faites un commit
+sur le repository.
+C. Clonage du projet :
+5) Faites un clonage (clone) du projet sur votre machine locale. Allez vers le bouton Code ->
+HTTPS -> copiez le lien et lancez sur le terminal la commande « git clone url_copié ».
+— A travers cet url, on pourra accéder à notre projet distant via le terminal.
+6) Vérifier que le projet a été cloné avec succès sur votre machine locale.
+7) Positionnez-voussousle projet cloné.
+8) Consultez la liste desfichiers existants sous ce répertoire.
