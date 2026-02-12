@@ -1,0 +1,11 @@
+D. Gestion, suivi et vérification des fichiers:
+9) Créez un nouveau fichier en local « LocalFile » et remplissez-le.
+10) Ajoutez le fichier pour être suivi par le git et faites un commit.
+11) Vérifiez que le fichier est tracked et affichez le log.
+12) Vérifiez l’existence du fichier sur le repository distant. Le fichier LocalFile existe-il ?
+Pourquoi ?
+
+E. Synchronisation avec le Repository distant :
+13) Afin d’arriver à avoir les modifications apportées au niveau du projet local sur le
+repository distant, tapez la commande « git push ».
+14) Que se passe-t-il ? Pourquoi ?
